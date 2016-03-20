@@ -1,0 +1,9 @@
+.top-buffer {
+    margin-top: 20px;
+}
+
+label.error {
+    color: #924949;
+    padding: 5px;
+    font-weight: 100;
+}
